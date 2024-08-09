@@ -30,7 +30,7 @@ Contributing
 ------------
 
 - To modify the files, use [KiCad](https://www.kicad.org) (open-source EDA application)
-- Sicne the `git diff` involved in modifying these files is somewhat opaque, please start a discussion first, so any changes can be coordinated
+- Since the `git diff` involved in modifying these files is somewhat opaque, please start a discussion first, so any changes can be coordinated
 
 
 Photos
